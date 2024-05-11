@@ -1,3 +1,3 @@
 # git-repo!
 
-we are creating example of using GIT
+We are playing with Git commands!
